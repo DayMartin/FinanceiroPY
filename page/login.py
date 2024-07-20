@@ -6,8 +6,6 @@ from db.consultas.user import *
 
 # create_table()
 
-# consultar_todos_clientes()
-
 customtkinter.set_appearance_mode("dark")
 customtkinter.set_default_color_theme("dark-blue")
 
